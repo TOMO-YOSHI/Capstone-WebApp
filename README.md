@@ -1,6 +1,6 @@
 🚧️ This app is still WIP 🚧️
 # About
-[![Watch the video](./front-end/public/socialAd-V7.png)](./front-end/public/media/videos/Script2-Final-v1.mp4)
+[![Watch the video](./front-end/public/socialAd-V7.png)](https://pivotcare-s3.s3-us-west-2.amazonaws.com/videos/Script2-Final-v1.mp4)
 ## 👆Click an Above Image to Play a Promotion Video!!!
 (This image and video were created by awesome designers. If you get interested in who created design materials, please check the team member section of this link https://pivotcare.ca/about)
 
