@@ -26,3 +26,8 @@ yarn-error.log*
 .eslintcache
 
 config.js
+
+# Tomo
+README.md
+System_Architecture_diagram-4.png
+s3_image.png
